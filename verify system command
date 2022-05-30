@@ -1,0 +1,14 @@
+Code:
+bot.command({
+  name: "verify",
+  code: `Successfully verified!
+$giveRoles[$guildID;$authorID;980380956764545024]
+$onlyForChannels[980380792855347220;you cant verify in here!]
+$deleteIn[2s]`
+})
+
+Change 980380956764545024 to the roles id and change 980380792855347220 to ur verify channel.
+
+
+subscribe my youtube
+https://www.youtube.com/channel/UCXLqf8iEB_fV003L02BSKTQ
